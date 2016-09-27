@@ -2,4 +2,4 @@
 
 Hi Humans !
 
-I work for CSC and its great :)
+I work for CSC.
